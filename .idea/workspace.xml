@@ -2,320 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecc2b3b0-1fdb-4284-a448-2db57821da65" name="Default Changelist" comment="first test">
-      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.styleci.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/CalendarEvent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Console/Kernel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Exceptions/Handler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ConfirmPasswordController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ForgotPasswordController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ResetPasswordController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/VerificationController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/CalendarController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Middleware/CheckForMaintenanceMode.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Middleware/TrimStrings.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Middleware/TrustHosts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Middleware/TrustProxies.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/artisan" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap/app.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap/cache/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/broadcasting.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/cache.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/cors.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/filesystems.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/hashing.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/logging.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/mail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/queue.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/services.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/session.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/view.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phpunit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/calendar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/dashforge.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/complete/woff/IBMPlexSans-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/complete/woff/IBMPlexSans-BoldItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/complete/woff/IBMPlexSans-ExtraLight.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/complete/woff/IBMPlexSans-ExtraLightItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/complete/woff/IBMPlexSans-Italic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/complete/woff/IBMPlexSans-Light.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/complete/woff/IBMPlexSans-LightItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/complete/woff/IBMPlexSans-Medium.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/complete/woff/IBMPlexSans-MediumItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/complete/woff/IBMPlexSans-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/complete/woff/IBMPlexSans-SemiBold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/complete/woff/IBMPlexSans-SemiBoldItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/complete/woff/IBMPlexSans-Text.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/complete/woff/IBMPlexSans-TextItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/complete/woff/IBMPlexSans-Thin.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/complete/woff/IBMPlexSans-ThinItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Bold-Cyrillic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Bold-Greek.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Bold-Latin1.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Bold-Latin2.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Bold-Latin3.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Bold-Pi.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-BoldItalic-Cyrillic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-BoldItalic-Greek.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-BoldItalic-Latin1.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-BoldItalic-Latin2.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-BoldItalic-Latin3.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-BoldItalic-Pi.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-ExtraLight-Cyrillic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-ExtraLight-Greek.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-ExtraLight-Latin1.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-ExtraLight-Latin2.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-ExtraLight-Latin3.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-ExtraLight-Pi.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-ExtraLightItalic-Cyrillic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-ExtraLightItalic-Greek.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-ExtraLightItalic-Latin1.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-ExtraLightItalic-Latin2.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-ExtraLightItalic-Latin3.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-ExtraLightItalic-Pi.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Italic-Cyrillic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Italic-Greek.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Italic-Latin1.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Italic-Latin2.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Italic-Latin3.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Italic-Pi.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Light-Cyrillic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Light-Greek.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Light-Latin1.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Light-Latin2.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Light-Latin3.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Light-Pi.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-LightItalic-Cyrillic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-LightItalic-Greek.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-LightItalic-Latin1.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-LightItalic-Latin2.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-LightItalic-Latin3.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-LightItalic-Pi.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Medium-Cyrillic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Medium-Greek.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Medium-Latin1.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Medium-Latin2.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Medium-Latin3.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Medium-Pi.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-MediumItalic-Cyrillic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-MediumItalic-Greek.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-MediumItalic-Latin1.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-MediumItalic-Latin2.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-MediumItalic-Latin3.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-MediumItalic-Pi.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Regular-Cyrillic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Regular-Greek.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Regular-Latin1.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Regular-Latin2.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Regular-Latin3.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Regular-Pi.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-SemiBold-Cyrillic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-SemiBold-Greek.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-SemiBold-Latin1.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-SemiBold-Latin2.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-SemiBold-Latin3.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-SemiBold-Pi.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-SemiBoldItalic-Cyrillic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-SemiBoldItalic-Greek.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-SemiBoldItalic-Latin1.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-SemiBoldItalic-Latin2.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-SemiBoldItalic-Latin3.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-SemiBoldItalic-Pi.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Text-Cyrillic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Text-Greek.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Text-Latin1.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Text-Latin2.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Text-Latin3.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Text-Pi.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-TextItalic-Cyrillic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-TextItalic-Greek.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-TextItalic-Latin1.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-TextItalic-Latin2.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-TextItalic-Latin3.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-TextItalic-Pi.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Thin-Cyrillic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Thin-Greek.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Thin-Latin1.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Thin-Latin2.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Thin-Latin3.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-Thin-Pi.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-ThinItalic-Cyrillic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-ThinItalic-Greek.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-ThinItalic-Latin1.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-ThinItalic-Latin2.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-ThinItalic-Latin3.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ibm-plex-sans/split/woff2/IBMPlexSans-ThinItalic-Pi.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-Black.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-Black.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-BlackItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-BlackItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-Bold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-BoldItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-BoldItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-ExtraBold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-ExtraBold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-ExtraBoldItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-ExtraBoldItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-ExtraLight-BETA.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-ExtraLight-BETA.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-ExtraLightItalic-BETA.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-ExtraLightItalic-BETA.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-Italic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-Italic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-Light-BETA.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-Light-BETA.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-LightItalic-BETA.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-LightItalic-BETA.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-Medium.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-Medium.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-MediumItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-MediumItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-Regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-SemiBold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-SemiBold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-SemiBoldItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-SemiBoldItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-Thin-BETA.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-Thin-BETA.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-ThinItalic-BETA.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/inter-ui/Inter-UI-ThinItalic-BETA.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/vendor/jquery-ui/themes/base/ui-icons_444444_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/vendor/jquery-ui/themes/base/ui-icons_555555_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/vendor/jquery-ui/themes/base/ui-icons_777620_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/vendor/jquery-ui/themes/base/ui-icons_777777_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/vendor/jquery-ui/themes/base/ui-icons_cc0000_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/vendor/jquery-ui/themes/base/ui-icons_ffffff_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index 2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/calendar/calendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/feather-icons/feather.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/fullcalendar/fullcalendar.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/fullcalendar/fullcalendar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/fullcalendar/tr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/ionicons/css/ionicons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/ionicons/fonts/ionicons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/ionicons/fonts/ionicons.eot?v=4.5.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/ionicons/fonts/ionicons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/ionicons/fonts/ionicons.svg?v=4.5.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/ionicons/fonts/ionicons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/ionicons/fonts/ionicons.ttf?v=4.5.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/ionicons/fonts/ionicons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/ionicons/fonts/ionicons.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/ionicons/fonts/ionicons.woff2?v=4.5.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/ionicons/fonts/ionicons.woff?v=4.5.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/ionicons/fonts/ionicons/ionicons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/ionicons/fonts/ionicons/ionicons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/ionicons/fonts/ionicons/ionicons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/ionicons/fonts/ionicons/ionicons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/ionicons/fonts/ionicons/ionicons.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/ionicons/fonts/lg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/jquery-sparkline/jquery.sparkline.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/jquery-steps/build/jquery.steps.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/jquery-timepicker/jquery.timepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/jquery-timepicker/jquery.timepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/jquery-timepicker/jquery.timepicker.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/jquery-timepicker/jquery.timepicker.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/jquery.flot/jquery.flot.crosshair.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/jquery.flot/jquery.flot.fillbetween.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/jquery.flot/jquery.flot.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/jquery.flot/jquery.flot.pie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/jquery.flot/jquery.flot.resize.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/jquery.flot/jquery.flot.stack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/jquery.flot/jquery.flot.threshold.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/jqueryui/jquery-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/jqvmap/jquery.vmap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/jqvmap/jqvmap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/jqvmap/maps/jquery.vmap.canada.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/jqvmap/maps/jquery.vmap.usa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/jqvmap/maps/jquery.vmap.world.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/moment/min/moment.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/perfect-scrollbar/perfect-scrollbar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/select2/css/select2.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/select2/js/select2.full.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/select2/js/select2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/robots 2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/web.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/components/ExampleComponent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/en/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/en/pagination.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/en/passwords.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/en/validation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth/passwords/confirm.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth/passwords/email.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth/passwords/reset.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth/verify.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/calendar/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/channels.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/console.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/app/public/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/framework/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/framework/cache/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/framework/cache/data/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/framework/sessions/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/framework/testing/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/framework/views/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/logs/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/CreatesApplication.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/Feature/ExampleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/TestCase.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/Unit/ExampleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -499,8 +186,16 @@
       <option name="presentableId" value="Default" />
       <updated>1618740870634</updated>
       <workItem from="1618740871748" duration="8701000" />
-      <workItem from="1619911073933" duration="475000" />
+      <workItem from="1619911073933" duration="1026000" />
     </task>
+    <task id="LOCAL-00001" summary="first test">
+      <created>1619911816438</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619911816438</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -523,11 +218,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1618779079456" />
-    <state x="378" y="32" key="CommitChangelistDialog2" timestamp="1619911725594">
-      <screen x="0" y="23" width="1440" height="820" />
+    <state x="280" y="53" key="CommitChangelistDialog2" timestamp="1619912169434">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="280" y="53" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1619910924813" />
-    <state x="378" y="32" key="CommitChangelistDialog2/0.23.1440.820@0.23.1440.820" timestamp="1619911725594" />
+    <state x="280" y="53" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1619912169434" />
+    <state x="280" y="32" key="CommitChangelistDialog2/0.23.1440.820@0.23.1440.820" timestamp="1619911816006" />
     <state width="509" height="466" key="DebuggerActiveHint" timestamp="1618785068739">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -588,10 +283,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="526" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1618783994089" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1619911308768">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1619912161241">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1619911308768" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1619912161241" />
     <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1618779846080">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
