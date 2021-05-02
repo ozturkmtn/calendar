@@ -8,3 +8,8 @@ RewriteRule ^(.*)$ /public/$1
 #RewriteRule ^ index.php [L]
 RewriteRule ^(/)?$ public/index.php [L]
 </IfModule>
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^(.*)$ public/$1 [L]
+</IfModule>

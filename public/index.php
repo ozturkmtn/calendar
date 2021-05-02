@@ -1,4 +1,5 @@
 <?php
+dump('1 Test');die;
 
 /**
  * Laravel - A PHP Framework For Web Artisans
@@ -35,7 +36,6 @@ require __DIR__.'/../vendor/autoload.php';
 |
 */
 
-dump('1 Test');die;
 $app = require_once __DIR__.'/../bootstrap/app.php';
 
 /*
