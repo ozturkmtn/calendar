@@ -1,5 +1,4 @@
 <?php
-dump('1 Test');die;
 
 /**
  * Laravel - A PHP Framework For Web Artisans
