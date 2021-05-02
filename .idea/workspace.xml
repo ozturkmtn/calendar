@@ -138,14 +138,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/app" />
       <recent name="$PROJECT_DIR$/resources/js" />
     </key>
@@ -188,7 +188,7 @@
       <option name="presentableId" value="Default" />
       <updated>1618740870634</updated>
       <workItem from="1618740871748" duration="8701000" />
-      <workItem from="1619911073933" duration="3531000" />
+      <workItem from="1619911073933" duration="3833000" />
     </task>
     <task id="LOCAL-00001" summary="first test">
       <created>1619911816438</created>
@@ -246,7 +246,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619981900296</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="4">
+      <created>1619982337072</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1619982337072</updated>
+    </task>
+    <task id="LOCAL-00010" summary="4">
+      <created>1619982466931</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1619982466931</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,10 +286,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1618779079456" />
-    <state x="280" y="53" key="CommitChangelistDialog2" timestamp="1619981900204">
+    <state x="280" y="53" key="CommitChangelistDialog2" timestamp="1619982466838">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="280" y="53" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1619981900204" />
+    <state x="280" y="53" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1619982466838" />
     <state x="280" y="32" key="CommitChangelistDialog2/0.23.1440.820@0.23.1440.820" timestamp="1619911816006" />
     <state width="509" height="466" key="DebuggerActiveHint" timestamp="1618785068739">
       <screen x="0" y="0" width="1440" height="900" />
@@ -341,10 +355,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="526" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1618783994089" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1619981904057">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1619982468598">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1619981904057" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1619982468598" />
     <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1618779846080">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
